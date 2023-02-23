@@ -1,0 +1,17 @@
+F:\Lab\labs\Adapter\Adapter\bin\Debug\net6.0-windows\Adapter.exe
+F:\Lab\labs\Adapter\Adapter\bin\Debug\net6.0-windows\Adapter.deps.json
+F:\Lab\labs\Adapter\Adapter\bin\Debug\net6.0-windows\Adapter.runtimeconfig.json
+F:\Lab\labs\Adapter\Adapter\bin\Debug\net6.0-windows\Adapter.dll
+F:\Lab\labs\Adapter\Adapter\bin\Debug\net6.0-windows\Adapter.pdb
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.csproj.AssemblyReference.cache
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.Form1.resources
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.csproj.GenerateResource.cache
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.AssemblyInfoInputs.cache
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.AssemblyInfo.cs
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.csproj.CoreCompileInputs.cache
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.dll
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\refint\Adapter.dll
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.pdb
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\Adapter.genruntimeconfig.cache
+F:\Lab\labs\Adapter\Adapter\obj\Debug\net6.0-windows\ref\Adapter.dll
